@@ -1,0 +1,6 @@
+Git init -> Inicializa uma pasta local para possivelmente ser enviada para o Github;
+Git Clone -> Faz o download de uma pasta git do Servidor do Github para o armazenamento local;
+Git Add -> Adiciona um arquivo específico ou todas as alterações para serem commitadas;
+Git Commit -> Insere os arquivos adicionados para a fila de commit para o Github;
+Git Push -> Envia os arquivos para os repositórios online;
+Git Pull -> Substitui todos os arquivos que estão online pelos locais que serão enviados.
